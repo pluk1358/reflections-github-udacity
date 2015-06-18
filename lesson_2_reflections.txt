@@ -18,4 +18,8 @@ Question 4: What are some situations when branches would be helpful in keeping y
 Answer: When you want to change file differently but don't want to ruined
 current code. You can branch them and make change it.
 
+Question 5: How do the diagrams help you visualize the branch structure?
+
+Answer: It makes you know where each commit is reachable.
+
 
