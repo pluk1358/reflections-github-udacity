@@ -22,4 +22,15 @@ Question 5: How do the diagrams help you visualize the branch structure?
 
 Answer: It makes you know where each commit is reachable.
 
+Question 6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Answer: let define  1) B1 and B2 for each branch prepare to merge.
+                    2) A1 for ancester of B1 and B2
+
+the result is   1) If B1 and A1 have data(1) but B2 haven't, then merging
+version haven't that data.
+                2) If B1 and B2 have A1, merging version have it too.
+                3) If B1 or B2 haven't A1 data, then merging version have that
+data.
+
 
