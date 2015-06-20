@@ -33,4 +33,20 @@ version haven't that data.
                 3) If B1 or B2 haven't A1 data, then merging version have that
 data.
 
+Question 7: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Answer: Git's automatic merging
+            pro:    1) make merging commit time faster.
+                    2) make sure you don't forget file, line of code etc. when
+you  merging
+            con:    1) sometimes make conflict merging.
+                    2) make code less readablility for add something not
+useful (It's my own opinion)
+        Manual merging
+            pro:    1) avoid conflict merging.
+                    2) maintain readablily of code. (It's my own opinion.)
+            con:    1) waste time on commit
+                    2) you must know what you want to merging.
+
+
 
