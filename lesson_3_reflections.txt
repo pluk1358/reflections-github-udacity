@@ -1,0 +1,3 @@
+Question 1: When would you want to use a remote repository rather than keeping all your work local?
+
+Answer: for two reasons, 1) To make backup. 2) Share your work.
