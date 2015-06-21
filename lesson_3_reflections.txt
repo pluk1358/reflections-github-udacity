@@ -8,3 +8,9 @@ Answer: I think if it automatically update, it makes me mad because I want to
 work on current version , not update version. For example if someone remove a
 file that I want on GitHub and It update. I make me crazy to check older
 repository.
+
+Question 3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Answer: Branches -> create new path of each commit. Use when you try to do something without affect current version.
+        Clones -> copy repository from Github to your local computer. Use when you want keep repository to local. 
+        Forks -> copy repository from other user to your user. Use when you want to get repository from other and can change it without change other repository.
